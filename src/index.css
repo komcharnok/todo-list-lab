@@ -64,3 +64,10 @@ label, input {
   gap: 2px;
   padding-bottom: 8px;
 }
+
+.todo-item {
+  display: flex;
+  gap: 2px;
+  padding-bottom: 3px;
+  
+}
